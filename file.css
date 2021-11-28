@@ -1,0 +1,29 @@
+
+*
+{
+    text-align: left;
+}
+.a
+{
+    background: white center ;
+    font-size: large;
+    font-style: italic;
+    width: 500px;
+    text-align: center;
+    margin-left: 500px;
+    padding: 50px;
+    border: 50px green ;
+    text-align: left;
+    border: blue 10px;
+    border-style:outset;
+}
+label
+{
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(48, 15, 199);
+}
+.tr
+{
+    width: 500px;
+}
